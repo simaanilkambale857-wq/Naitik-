@@ -1,0 +1,6 @@
+{
+  "name": "NK Social 2.0",
+  "description": "Original NK Social 2.0 modern social network with posts, stories, short video reels, DMs, search, notifications, and moderation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
